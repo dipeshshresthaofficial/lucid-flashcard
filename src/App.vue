@@ -20,7 +20,7 @@ export default {
   },
   data () {
     return {
-      readMoreUrl: 'https://www.google.com',
+      readMoreUrl: 'https://vuejs.org/guide/introduction.html',
       cards
     }
   }
